@@ -7,11 +7,12 @@
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text = "Hey";
         }
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            textBox1.Text = "Yoooo!";
+            textBox1.Text += " yo!";
         }
     }
 }

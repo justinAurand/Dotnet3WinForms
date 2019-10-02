@@ -4,7 +4,6 @@ C:\Repositories\pdnwebforms\pdnwebforms\bin\Debug\netcoreapp3.0\pdnwebforms.runt
 C:\Repositories\pdnwebforms\pdnwebforms\bin\Debug\netcoreapp3.0\pdnwebforms.runtimeconfig.dev.json
 C:\Repositories\pdnwebforms\pdnwebforms\bin\Debug\netcoreapp3.0\pdnwebforms.dll
 C:\Repositories\pdnwebforms\pdnwebforms\bin\Debug\netcoreapp3.0\pdnwebforms.pdb
-C:\Repositories\pdnwebforms\pdnwebforms\obj\Debug\netcoreapp3.0\pdnwebforms.csprojAssemblyReference.cache
 C:\Repositories\pdnwebforms\pdnwebforms\obj\Debug\netcoreapp3.0\pdnwebforms.AssemblyInfoInputs.cache
 C:\Repositories\pdnwebforms\pdnwebforms\obj\Debug\netcoreapp3.0\pdnwebforms.AssemblyInfo.cs
 C:\Repositories\pdnwebforms\pdnwebforms\obj\Debug\netcoreapp3.0\pdnwebforms.dll
