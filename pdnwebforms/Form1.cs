@@ -9,5 +9,9 @@
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, System.EventArgs e)
+        {
+            textBox1.Text = "Yoooo!";
+        }
     }
 }
